@@ -1,0 +1,8 @@
+{
+  "name": "Media Controller",
+  "description": "Adds a media controller to panel",
+  "uuid": "media-controller@aylur",
+  "shell-version": [
+    "42"
+  ]
+}
